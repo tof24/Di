@@ -5,9 +5,9 @@ install android studio => ver a primeira meia-hora https://www.youtube.com/watch
 
 
 npm install react "já devem ter"
+
+npm install expo
 npm install @react-navigation/navigate
 
 npm start => para correr a aplicação
 a=> para correr no emulador
-___________________________________________
-npm install expo
